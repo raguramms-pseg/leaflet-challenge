@@ -10,7 +10,7 @@ Functions written to create markers based on magnitude and depth
 
 Created popups and legend
 
-GitHub Pages link : https://raguramms-pseg.github.io/leaflet-challenge/
+GitHub Pages link : https://raguramms-pseg.github.io/leaflet-challenge//Leaflet-Part-1/index.html
 
 
 Did not get a chance to attempt Part-2
